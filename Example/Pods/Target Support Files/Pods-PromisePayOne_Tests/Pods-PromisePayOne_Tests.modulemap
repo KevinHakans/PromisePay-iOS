@@ -1,0 +1,6 @@
+framework module Pods_PromisePayOne_Tests {
+  umbrella header "Pods-PromisePayOne_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

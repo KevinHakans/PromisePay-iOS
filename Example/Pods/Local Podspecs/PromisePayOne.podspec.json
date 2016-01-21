@@ -1,0 +1,25 @@
+{
+  "name": "PromisePayOne",
+  "version": "0.1.0",
+  "summary": "A short description of PromisePayOne.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/PromisePayOne",
+  "license": "MIT",
+  "authors": {
+    "KevinHakans": "kevin.hakans.it@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/PromisePayOne.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "PromisePayOne": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}
